@@ -1,0 +1,3 @@
+﻿,image_count,species_count,random_baseline_pct,mAP_pct,Recall@1_overall_pct,Recall@2_pct,Recall@4_pct,Recall@8_pct,Recall@1_macro_pct,kNN1_balanced_acc_pct,kNN3_balanced_acc_pct,kNN5_balanced_acc_pct,linear_probe_balanced_acc_pct,nearest_centroid_balanced_acc_pct,acc_std_across_splits_pct,distance_ROC_AUC,within_species_dist_mean,between_species_dist_mean,separation_ratio_between_over_within,within_above_between_median_pct,silhouette_score,calinski_harabasz,davies_bouldin
+specimen,2623.0,35.0,2.86,37.52,55.01,52.9,51.09,49.04,49.56,47.12,46.14,47.27,38.9,45.22,1.9,0.9197,0.497,1.2073,2.429,1.15,-0.0153,110.0,3.5466
+habitat,2134.0,35.0,2.86,57.96,67.85,67.6,66.73,65.79,59.86,54.52,55.42,57.38,47.98,60.85,9.3,0.9431,0.5699,1.3733,2.41,1.66,0.1184,106.7,2.8797
